@@ -26,7 +26,7 @@ TEspn Player Trade Simulator is an application developed for the newest media mo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/TEspn-Player-Trade-Simulator.git
+    git clone https://github.com/HS-Gill29/TEspn-Player-Trade-Simulator.git
     ```
 
 2. Navigate to the project directory:
